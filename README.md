@@ -30,6 +30,23 @@ The goal is to identify key sales and profit trends, assess return performance, 
 4. *Customer & Product Insights* – Analysis of product profitability, top-selling products, customers, and geographic sales performance.
 5. *Key Recommendations* – Summary of key findings and recommended business actions.
 
+## Dashboard Preview
+
+### 1. Overall Performance
+![Overall Performance](screenshots/01-overall-performance.png)
+
+### 2. Sales & Profit Analysis
+![Sales & Profit Analysis](screenshots/02-sales-and-profit-analysis.png)
+
+### 3. Return & Risk Analysis
+![Return & Risk Analysis](screenshots/03-return-and-risk-analysis.png)
+
+### 4. Customer & Product Insights
+![Customer & Product Insights](screenshots/04-customer-and-product-insights.png)
+
+### 5. Key Recommendations
+![Key Recommendations](screenshots/05-key-recommendations.png)
+
 ## Key Insights
 
 - Order return rates increased over time, with a notable increase in 2025.
